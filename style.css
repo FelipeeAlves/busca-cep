@@ -1,0 +1,10 @@
+#resultado {
+    padding: 10px;
+    margin-top: 10px;
+    max-width: 350px;
+    background-color: lightblue;
+    border: 1px solid gray;
+    border-radius: 10px;
+    box-shadow: 2px 2px gray;
+
+}
